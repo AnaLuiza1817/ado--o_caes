@@ -1,1 +1,17 @@
 /* Estilo para o site de adoção de cães */
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(255, 227, 227);
+}
+h1 {
+    color: #c40051;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 5px; 
+}
+h3 {
+    text-align: center;
+    color: #c2004a;
+    margin-top: 5px;
+    margin-bottom: 20px; 
+}
